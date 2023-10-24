@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   //lang: 'zh-CN',
   title: "ZC个人站点",
-  titleTemplate: '首页',
+  titleTemplate: '学习用',
   description: "张创个人站点",
   //fav图标
   head: [
