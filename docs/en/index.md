@@ -2,8 +2,8 @@
 layout: home
 ---
 
-<div class='msg' >
-  <div><img src='/logo.svg' /></div>
+<div class='msg'>
+  <div><img src='/index/nodata.svg' /></div>
   <div class='tips'><a href="/" target="_self">还没有翻译内容</a></div>
 </div>
 
@@ -15,13 +15,13 @@ layout: home
   justify-content: center; /* 水平居中 */
   align-items: center;     /* 垂直居中 */
   flex-direction: column;
-  height:calc(100vh - 150px);
+  height:100%;
 }
 .tips{
   font-weight:bolder;
 }
 
-.msg:hover{
+.tips:hover{
   cursor: pointer;
 }
 
