@@ -16,12 +16,14 @@ layout: home
   align-items: center;     /* 垂直居中 */
   flex-direction: column;
   height:100%;
+  
+  
 }
 .tips{
   font-weight:bolder;
 }
 .img{
-  max-width:30%;
+  max-width:40%;
 }
 
 .tips:hover{
