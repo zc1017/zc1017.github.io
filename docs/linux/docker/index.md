@@ -122,7 +122,7 @@ sudo rm -rf /var/lib/containerd
 
 ### 若报以下错误
 
-![image-20230911091602541](G:\学习资料\linux\3、docker相关\image-20230911091602541.png)
+![image-20230911091602541]
 
 查看服务器DNS网络配置
 
