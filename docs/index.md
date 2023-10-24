@@ -6,9 +6,11 @@ hero:
   name: "个人学习资料站点"
 # text: "A VitePress Site"
   tagline: 记录的一些杂七杂八的东西
- # image:
- #   src: /logo.png
-  #  alt: VitePress
+  image:
+    src: /logo.png
+    alt: 张创
+    width: 200
+    height: 200
   actions:
     - theme: brand
       text: 开 始
@@ -55,8 +57,8 @@ features:
   :root {
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe, #41d1ff);
-  --vp-home-hero-image-background-image: linear-gradient(-45deg, #bd34fe 50%, #47caff 50%);
-  --vp-home-hero-image-filter: blur(40px);
+  /* --vp-home-hero-image-background-image: linear-gradient(-45deg, #bd34fe 50%, #47caff 50%);
+  --vp-home-hero-image-filter: blur(40px); */
 }
 
 </style>
