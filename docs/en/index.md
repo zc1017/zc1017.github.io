@@ -3,7 +3,7 @@ layout: home
 ---
 
 <div class='msg'>
-  <div><img src='/index/nodata.svg' /></div>
+  <div class=img><img src='/index/nodata.svg' /></div>
   <div class='tips'><a href="/" target="_self">还没有翻译内容</a></div>
 </div>
 
@@ -19,6 +19,9 @@ layout: home
 }
 .tips{
   font-weight:bolder;
+}
+.img{
+  max-width:30%;
 }
 
 .tips:hover{
