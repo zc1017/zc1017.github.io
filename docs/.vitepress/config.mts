@@ -142,6 +142,7 @@ export default defineConfig({
     }, 
     //侧边栏文字更改(移动端) 
     sidebarMenuLabel:'目录', 
+    returnToTopLabel: '返回顶部',
     outlineTitle: '本页大纲',
     docFooter: {
       prev: '上一篇',
