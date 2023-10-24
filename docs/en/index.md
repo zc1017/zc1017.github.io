@@ -15,8 +15,10 @@ layout: home
   justify-content: center; /* 水平居中 */
   align-items: center;     /* 垂直居中 */
   flex-direction: column;
-  height:100%;
-  
+  position: relative;
+  top:50%;
+  transform:translateY(50%);
+
   
 }
 .tips{
