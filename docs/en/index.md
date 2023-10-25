@@ -30,7 +30,7 @@ layout: home
 }
 .tips span{
   padding: 10px ;
-   display:block;
+  display:block;
 }
 .tips a{
   display:none;
