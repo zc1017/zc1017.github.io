@@ -17,7 +17,7 @@ layout: home
   flex-direction: column;
   position: relative;
   top:50%;
-  transform:translateY(50%);
+  transform:translateY(30%);
 
   
 }
