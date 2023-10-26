@@ -52,7 +52,14 @@ export default defineConfig({
           { text: '配置', link: '/configuration' }
         ]
       },
-      { text: 'chatgpt', link: '/chatgpt/' }
+      {
+        text: 'AI助手',
+        items: [
+          { text: 'chatgpt', link: '/chatgpt/' },
+          { text: '文言一心', link: '/chatgpt/baidu' },
+        ]
+      }
+      
     ],
     //侧边栏
     sidebar: {
@@ -138,7 +145,7 @@ export default defineConfig({
     //页脚 ,如果 Sidebar 存在则页脚不会存在
     footer: { 
      // message: '小卡拉米', 
-      copyright: 'Copyright© 2023-2030 zhangchuang .All rights reserved.', 
+      copyright: 'Copyright© 2023-2030 zc.All rights reserved.', 
     }, 
     //侧边栏文字更改(移动端) 
     sidebarMenuLabel:'目录', 
