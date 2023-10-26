@@ -13,9 +13,6 @@ layout: page
 
 
 <style scoped>
-.VPFooter {
-    padding: 10px !important;
-}
 .VPHome{
   padding-bottom: 0px !important;
 }

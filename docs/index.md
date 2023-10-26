@@ -61,8 +61,8 @@ features:
   --vp-home-hero-image-filter: blur(40px); */
 }
 .VPNav{
-  box-shadow:0 1px 4px 0 rgba(32, 33, 36, 0.2);
-  /*position:fixed !important;
+  /*box-shadow:0 1px 4px 0 rgba(32, 33, 36, 0.2);
+  position:fixed !important;
    background-color:#fff; */
 }
 .VPFooter {
