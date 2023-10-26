@@ -60,6 +60,15 @@ features:
   /* --vp-home-hero-image-background-image: linear-gradient(-45deg, #bd34fe 50%, #47caff 50%);
   --vp-home-hero-image-filter: blur(40px); */
 }
+.VPNav{
+  box-shadow:0 1px 4px 0 rgba(32, 33, 36, 0.2);
+}
+.VPFooter {
+    padding: 10px !important;
+}
+.VPHome{
+  padding-bottom: 0px !important;
+}
 .sidebar .sidebar-links {
   /* 设置侧边栏容器的高度 */
   height: 100%;

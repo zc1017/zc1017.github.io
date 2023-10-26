@@ -5,16 +5,19 @@ layout: home
 
  <iframe allowfullscreen="true"
         src="https://chagpt.me/"
-        style="width: 100%; height: calc(100vh - 153px)"
+        style="width: 100%; height: calc(100vh - 109px)"
         scrolling="auto"
         frameborder="0"        
       >
       </iframe>
 
 
-<style>
-
+<style >
+.VPFooter {
+    padding: 10px !important;
+}
 .VPHome{
   padding-bottom: 0px !important;
 }
+
 </style>

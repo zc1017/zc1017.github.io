@@ -145,7 +145,7 @@ export default defineConfig({
     //页脚 ,如果 Sidebar 存在则页脚不会存在
     footer: { 
      // message: '小卡拉米', 
-      copyright: 'Copyright© 2023-2030 zc.All rights reserved.', 
+      copyright: 'Copyright© 2023-2030 ZC.All rights reserved.', 
     }, 
     //侧边栏文字更改(移动端) 
     sidebarMenuLabel:'目录', 

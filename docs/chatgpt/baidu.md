@@ -5,15 +5,18 @@ layout: home
 
  <iframe allowfullscreen="true"
         src="https://yiyan.baidu.com/"
-        style="width: 100%; height: calc(100vh - 153px)"
+        style="width: 100%; height: calc(100vh - 109px)"
         scrolling="auto"
         frameborder="0"        
       >
       </iframe>
 
 
-<style>
+<style scoped>
 
+.VPFooter {
+    padding: 10px !important;
+}
 .VPHome{
   padding-bottom: 0px !important;
 }
