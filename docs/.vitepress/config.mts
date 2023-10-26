@@ -28,17 +28,9 @@ export default defineConfig({
    // siteTitle: false, //标题隐藏
    //头部导航栏
     nav: [
-      { text: 'Home', link: '/' },
+      { text: 'Home', link: '/' },     
       {
-        text: '指南',
-        items: [
-          { text: '前言', link: '/preface' },
-          { text: '快速上手', link: '/getting-started' },
-          { text: '配置', link: '/configuration' }
-        ]
-      },
-      {
-        text: '测试',
+        text: '测试菜单',
         items: [
           {
             text: '指南',
