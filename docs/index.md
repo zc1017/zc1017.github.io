@@ -17,7 +17,7 @@ hero:
       link: /linux/centos/
     - theme: alt
       text: 天王盖地虎
-      link: /api-examples/
+      link: /test/
    
 
 features:
