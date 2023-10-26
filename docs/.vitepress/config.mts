@@ -52,7 +52,7 @@ export default defineConfig({
           { text: '配置', link: '/configuration' }
         ]
       },
-      { text: 'chatgpt', link: '/test/' }
+      { text: 'chatgpt', link: '/chatgpt/' }
     ],
     //侧边栏
     sidebar: {
