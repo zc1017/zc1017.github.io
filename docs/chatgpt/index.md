@@ -1,6 +1,6 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
-layout: home
+layout: page
 ---
 
  <iframe allowfullscreen="true"
@@ -12,7 +12,7 @@ layout: home
       </iframe>
 
 
-<style >
+<style scoped>
 .VPFooter {
     padding: 10px !important;
 }
