@@ -120,7 +120,7 @@ export default defineConfig({
        ]
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/zc1017/zc1017.github.io' }, 
+      { icon: 'github', link: 'https://github.com/zc1017' }, 
       { icon: 'twitter', link: 'https://twitter.com/jomzhang2' }, 
       // {
       //   icon: {
