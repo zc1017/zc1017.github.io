@@ -67,7 +67,7 @@ features:
     padding: 10px !important;
 }
 .VPHome{
-  padding-bottom: 0px !important;
+  padding-bottom: 20px !important;
 }
 .sidebar .sidebar-links {
   /* 设置侧边栏容器的高度 */
