@@ -18,7 +18,9 @@ hero:
     - theme: alt
       text: 天王盖地虎
       link: /test/
-   
+    - theme: alt
+      text: 视频测试
+      link: /audio/
 
 features:
   - icon:
