@@ -35,7 +35,7 @@ export default defineConfig({
           {
             text: '指南',
             items: [
-              { text: '前言', link: '/preface' },
+              { text: '前言', link: 'https://github.com/zc1017/zc-zw/blob/main/logo/logo.jpg' },
               { text: '快速上手', link: '/getting-started' },
               { text: '配置', link: '/configuration' }
             ]
