@@ -47,8 +47,8 @@ export default defineConfig({
       {
         text: 'AI助手',
         items: [
-          { text: 'chatgpt', link: '/chatgpt/' },
-          { text: '文言一心', link: '/chatgpt/baidu' },
+          { text: 'chatgpt', link: '/ai/' },
+          { text: '文言一心', link: '/ai/baidu' },
         ]
       }
       

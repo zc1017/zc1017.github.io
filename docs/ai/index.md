@@ -1,11 +1,12 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
-layout: page
+#layout: page
+layout: false
 ---
 
  <iframe allowfullscreen="true"
         src="https://chagpt.me/"
-        style="width: 100%; height: calc(100vh - 109px)"
+        style="width: 100%; height: 100vh"
         scrolling="auto"
         frameborder="0"        
       >
@@ -13,8 +14,5 @@ layout: page
 
 
 <style scoped>
-.VPHome{
-  padding-bottom: 0px !important;
-}
 
 </style>
