@@ -41,10 +41,10 @@ features:
       src: /index/code.svg
       width: 40
       height: 40
-    title: 后端
-    details: 后端相关的一些内容
+    title: 视频解析
+    details: 涵盖爱奇艺、腾讯视频、优酷视频等海量会员视频资源，去广告在线播放
     linkText: 查看更多
-    link: https://www.baidu.com
+    link: /vipVideo/
   - icon: 
       src: /index/others.svg
       width: 40
