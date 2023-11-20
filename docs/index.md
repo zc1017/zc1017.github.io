@@ -44,7 +44,7 @@ features:
     title: 后端
     details: 后端相关的一些内容
     linkText: 查看更多
-    link: https://www.baidu.com
+    link: /backend/python/
   - icon: 
       src: /index/others.svg
       width: 40

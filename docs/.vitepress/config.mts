@@ -118,7 +118,17 @@ export default defineConfig({
               },
             ]
           },
-       ]
+       ],
+       // 当用户位于 `backend` 目录时，将显示此侧边栏
+       '/backend/': [
+        {
+          text: 'python相关',
+          collapsed: false,
+          items: [
+            { text: 'readMe', link: '/backend/python/' },
+          ]
+        },
+     ]
     },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/zc1017' }, 
