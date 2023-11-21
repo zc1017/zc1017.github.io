@@ -47,5 +47,21 @@ set1.remove(10)
 print(set1) #{1, 2, 3, 4, 5, 6, 7, 8, 9}
 # set1.remove(11) #报错
 
+
+#集合交集，并集，差集
+set1={1,2,3,4,5,6}
+set2={4,5,6,7,8,9}
+# 交集
+set3=set1 & set2
+print(set3) #{4, 5, 6}
+# 并集
+set3=set1 | set2
+print(set3) #{1, 2, 3, 4, 5, 6, 7, 8, 9}
+# 差集
+set3=set1 - set2
+print(set3) #{1, 2, 3}
+
+
+
 ```
 
