@@ -46,6 +46,13 @@ print(set1) #{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
 set1.remove(10)
 print(set1) #{1, 2, 3, 4, 5, 6, 7, 8, 9}
 # set1.remove(11) #报错
+# pop删除 随机：集合无序，pop删除是随机删除一个元素
+set1.pop()
+print(set1) 
+#discard删除  和remove删除类似，也是删除元素，但是删除不存在的元素时不会报错
+set1.discard(1)
+print(set1) 
+set1.discard(11)
 
 
 #集合交集，并集，差集
@@ -60,6 +67,8 @@ print(set3) #{1, 2, 3, 4, 5, 6, 7, 8, 9}
 # 差集
 set3=set1 - set2
 print(set3) #{1, 2, 3}
+
+
 
 
 
