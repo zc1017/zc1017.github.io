@@ -26,6 +26,15 @@ print(list3[::-1])
 
 print(list3[::2])
 
+#列表删除
+#del 删除元素
+
+list4 = [1, 2, 3, 4, 5, 6]
+del list4[0]
+print(list4)
+#append
+list4.append(7)
+print(list4)
 
 ```
 
