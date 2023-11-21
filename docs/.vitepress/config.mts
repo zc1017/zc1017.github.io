@@ -128,6 +128,7 @@ export default defineConfig({
             { text: '基础入门', link: '/backend/python/' },
             { text: '列表', link: '/backend/python/list.md' },
             { text: '元组', link: '/backend/python/tuple.md' },
+            { text: '集合', link: '/backend/python/set.md' },
           ]
         },
      ]
