@@ -126,6 +126,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: '基础入门', link: '/backend/python/' },
+            { text: '列表', link: '/backend/python/list.md' },
           ]
         },
      ]
