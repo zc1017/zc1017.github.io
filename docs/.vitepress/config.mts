@@ -125,7 +125,7 @@ export default defineConfig({
           text: 'python相关',
           collapsed: false,
           items: [
-            { text: 'readMe', link: '/backend/python/' },
+            { text: '基础入门', link: '/backend/python/' },
           ]
         },
      ]
