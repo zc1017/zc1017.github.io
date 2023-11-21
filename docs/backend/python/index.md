@@ -39,12 +39,19 @@ print(type(1) or type(2.1))
 aa=None
 print(type(aa))
 
-bb="这是一个测试字符串"
+bb="这是一个测试字符串测试这是一个"
 print(bb[0])
 print(bb[0:3])
 print(bb[1:])
 print(bb[0::2])
 print(bb[::-1])
+
+
+print(bb.find("测试"))
+print(bb.find("测试",6,15))
+print(bb[4])
+print(bb.count('测试'))
+print(bb.count('测试',6,15))
 
 ```
 
