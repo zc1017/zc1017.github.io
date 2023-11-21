@@ -25,6 +25,16 @@ a[6][1]='hello'
 print(a)
 
 
+a=("h","123","h")
+print(max(a))
+print(min(a))
+print(len(a))
+c="12345哈hahahah"
+print(max(c))
+print(min(c))
+print(len(c))
+
+
 
 
 
