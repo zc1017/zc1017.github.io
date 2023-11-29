@@ -9,6 +9,7 @@ export default defineConfig({
   //fav图标
   head: [
     ['link',{ rel: 'icon', href: '/logo.svg'}],
+    ['meta', { name: 'keywords', content: '张创,张创个人站点,张创博客,张创网站,zc,ZC,zc1017,zc个人站点'}],
   ],
   //多语言
   locales: {
