@@ -50,6 +50,7 @@ export default defineConfig({
           { text: 'chatgpt', link: '/ai/' },
           { text: '文言一心', link: '/ai/baidu' },
           { text: '通义万象', link: '/ai/ali' },
+          { text: '讯飞星火', link: '/ai/xunfei' },
         ]
       }
       
