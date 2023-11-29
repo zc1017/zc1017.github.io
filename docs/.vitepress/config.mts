@@ -47,10 +47,10 @@ export default defineConfig({
       {
         text: 'AI助手',
         items: [
-          { text: 'chatgpt', link: '/ai/' },
+          { text: 'chatgpt', link: 'https://openai.com/' },
           { text: '文言一心', link: '/ai/baidu' },
-          { text: '通义万象', link: '/ai/ali' },
-          { text: '讯飞星火', link: '/ai/xunfei' },
+          { text: '通义万象', link: 'https://tongyi.aliyun.com/wanxiang/square' },
+          { text: '讯飞星火', link: 'https://xinghuo.xfyun.cn/desk' },
         ]
       }
       
