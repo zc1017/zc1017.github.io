@@ -6,6 +6,7 @@ export default defineConfig({
   title: "ZC个人站点",
   titleTemplate: '学习用',
   description: "张创个人站点",
+  appearance: 'dark',
   //fav图标
   head: [
     ['link',{ rel: 'icon', href: '/logo.svg'}],
