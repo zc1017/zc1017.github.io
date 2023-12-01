@@ -49,8 +49,7 @@ export default defineConfig({
         text: 'AI助手',
         items: [
           { text: 'chatgpt', link: 'https://openai.com/' },
-          // { text: '文言一心', link: '/ai/baidu' },
-          { text: '文言一心', link: 'https://yiyan.baidu.com/' },
+          { text: '文言一心', link: 'https://yiyan.baidu.com/' },  // { text: '文言一心', link: '/ai/baidu' },
           { text: '通义万象', link: 'https://tongyi.aliyun.com/wanxiang/square' },
           { text: '讯飞星火', link: 'https://xinghuo.xfyun.cn/desk' },
         ]
